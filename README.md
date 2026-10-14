@@ -63,5 +63,5 @@ The primary objective of this project was to analyze large-scale e-commerce tran
 
 ## 👤 Author
 **Bartosz Chołodziński**
-* 💼 LinkedIn: https://www.linkedin.com/in/bartoszcholodzinski
+* 💼 LinkedIn: https://www.linkedin.com/in/bartosz-cholodzinski
 * 📧 Email: bartosz.cholodzinski@gmail.com
